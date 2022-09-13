@@ -15,3 +15,5 @@ Apple Silicon:
 2. Make caddy runable with the command `chmod 755  ./caddy`
 
 3. Download the template caddy file with the following command:
+
+`curl -o ./Caddyfile`
