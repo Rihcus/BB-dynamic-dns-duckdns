@@ -16,4 +16,4 @@ Apple Silicon:
 
 3. Download the template caddy file with the following command:
 
-`curl -o ./Caddyfile`
+`curl -o ./Caddyfile https://raw.githubusercontent.com/Rihcus/BB-dynamic-dns-duckdns/main/Caddyfile`
