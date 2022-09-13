@@ -2,12 +2,12 @@
 A way to get https when portforwarding bluebubbles using caddy and duckdns
 This guide is written with the intention caddy is deployed on the same mac as your bluebubbles server but the config can be tweaked if you have a remote caddy server
 
-#Requirements
+## Requirements
 - A duckdns account with a domain https://www.duckdns.org/domains
 - A setup bluebubbles server
 - The ability to portforward
 
-#Steps to setup caddy
+## Steps to setup caddy
 1. Download xcaddy with duckns and move it to your home folder with the following command
 
 Intel Macs:
