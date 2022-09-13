@@ -21,7 +21,7 @@ Apple Silicon:
 
 `curl -o ./caddy https://caddyserver.com/api/download?os=darwin&arch=arm64&p=github.com/caddy-dns/duckdns&idempotency=28552737821716`
 
-2. Make caddy runable with the command `chmod 755  ./caddy`
+2. Make caddy exacutable with the command `chmod 755  ./caddy`
 
 3. Download the template caddy file with the following command:
 
