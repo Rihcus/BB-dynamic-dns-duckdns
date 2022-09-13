@@ -1,0 +1,16 @@
+{
+  http_port 1405
+  https_port 1404
+}
+
+
+subexample.example.duckdns.org {
+reverse_proxy 127.0.0.1:1234 #local ip and port for your bb server
+	tls {
+		dns duckdns xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx {
+			override_domain example.duckdns.org
+		}
+	}
+}
+
+
