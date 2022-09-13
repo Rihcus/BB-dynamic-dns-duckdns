@@ -8,7 +8,7 @@ Benefits:
 ## Requirements
 - A duckdns account with a domain https://www.duckdns.org/domains
 - A setup bluebubbles server
-- The ability to portforward
+- The ability to portforward your mac mini or reverse proxy to a machine that can be portforwarded (ex: aws, gcp, oracle, etc)
 
 ## Steps to setup caddy
 1. Download xcaddy with duckns and move it to your home folder with the following command
