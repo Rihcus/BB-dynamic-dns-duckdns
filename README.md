@@ -29,7 +29,7 @@ Apple Silicon:
 
 4. Edit the Caddyfile
 - replace the example domains with your domains
-- replace xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx with your duckdns token
+- replace `xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx` with your duckdns token
 - Optional ajust the https/http or bluebubbles server ports as needed
 
 5. For testing purposes set your duckdns domain to the local ip of your bluebubbles server using the duckdns web portal
