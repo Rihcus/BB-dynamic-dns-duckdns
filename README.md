@@ -33,7 +33,7 @@ Apple Silicon:
 
 https://www.duckdns.org/domains
 
-5. test the config with `./caddy run`
+6. test the config with `./caddy run`
 7. if the config works and you can acess your domain via https use `./caddy start` to make it auto run
 8. Setup portforwarding (not covered in this guide)
 9. Optional install duckdns to your mac server inorder to autoupdate public ip
