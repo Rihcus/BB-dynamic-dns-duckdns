@@ -1,5 +1,5 @@
 {
-  http_port 1405
+#  http_port 1405
   https_port 1404
 }
 
